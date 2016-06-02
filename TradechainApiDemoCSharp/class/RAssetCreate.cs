@@ -13,6 +13,6 @@ namespace TradechainApiDemoCSharp
         public string txid { get; set; }
         public string hash_mutation { get; set; }
         public long create_time { get; set; }
-        public int erroe_code { get; set; }
+        public int error_code { get; set; }
     }
 }

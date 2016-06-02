@@ -9,6 +9,6 @@ namespace TradechainApiDemoCSharp
     public class RAssetSend
     {
         public string txid { get; set; }
-        public int erroe_code { get; set; }
+        public int error_code { get; set; }
     }
 }
